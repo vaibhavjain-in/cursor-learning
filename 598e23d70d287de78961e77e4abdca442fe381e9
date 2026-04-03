@@ -1,0 +1,25 @@
+README.md
+  d8034266d0d1ab9e 1-26
+PyCharmToCursorMigration.md
+  d8034266d0d1ab9e 1,3,5,7,9-11,15,17-26,28,30,32,34,36,40-45,49,51,53,57-65,67,69,71,73,75,79,81,85-92,98-109,112-113,115,117,119-134,136,138,140,142-144,146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "598e23d70d287de78961e77e4abdca442fe381e9",
+  "prompts": {
+    "d8034266d0d1ab9e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "03082266-3640-4839-8acc-1dbbf24e1790",
+        "model": "composer-2"
+      },
+      "human_author": "Vaibhav Jain",
+      "messages": [],
+      "total_additions": 125,
+      "total_deletions": 203,
+      "accepted_lines": 121,
+      "overriden_lines": 0
+    }
+  }
+}
