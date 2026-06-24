@@ -1,0 +1,21 @@
+CursorCloudAgents.md
+  s_4dc5eab00009d5::t_2a149f03aaa3fe 27
+.gitignore
+  s_4dc5eab00009d5::t_d70ddd20736f61 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "1f301ba42701838998f4c1b0dde151287357e036",
+  "prompts": {},
+  "sessions": {
+    "s_4dc5eab00009d5": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1782267635441",
+        "model": "unknown"
+      },
+      "human_author": "Vaibhav Jain <vaibhav_jain@mckinsey.com>"
+    }
+  }
+}
